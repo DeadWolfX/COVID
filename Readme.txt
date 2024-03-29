@@ -16,5 +16,9 @@ Aquí se encuentran los códigos utilizados en el desarrollo de la tesis de maes
     
     	Contiene tres cuadernos de Jupyter Lab, uno por cada conjunto de datos utilizado. Estos cuadernos contienen los códigos y funciones utilizados para realizar los respectivos análisis exploratorios.
 
+    env.yml:
+    
+        Configuración de ambiente virtual de anaconda que contiene todas la librerías necesarias para los analisis exploratorios, visualización, preprocesamiento de datos y manipulacion de etiquetados.
+
 
 
