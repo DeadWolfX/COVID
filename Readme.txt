@@ -20,5 +20,13 @@ Aquí se encuentran los códigos utilizados en el desarrollo de la tesis de maes
     
         Configuración de ambiente virtual de anaconda que contiene todas la librerías necesarias para los analisis exploratorios, visualización, preprocesamiento de datos y manipulacion de etiquetados.
 
+    Entrenamientos:
+
+        Pesos de los modelos entrenados descritos en la tesis cada comprimido contiene las gráficas e informacion de entrenamineto completo.
+    
+    Tesis:
+
+        Archivo PDF que contiene el escrito de tesis que describe el trabajo.   
+
 
 
