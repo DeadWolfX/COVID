@@ -1,0 +1,3 @@
+En la carpeta origina donde se instala el modelo a traves de las instrucciones del git hub original  nos dirigimos a la ruta: ultralytics/nn/modules/conv.py
+
+Y cambiamos este archivo por el modificado, debemos renombrar el original con un nombre provisional para no perderlo y colocar el modificado con el nombre de conv.py y despues ejecutar el entrenamiento.
