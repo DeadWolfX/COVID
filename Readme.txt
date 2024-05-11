@@ -28,7 +28,12 @@ Aquí se encuentran los códigos utilizados en el desarrollo de la tesis de maes
     Codigos_Modificados:
 
         Contine dos carpetas una para cada modelo donde para el caso de YOLO se incluye el codigo con las capas de convolución agregadas para probar el modelo y tambien el cuaderno de Jupyter Lab con la que se realizo el entrenamiento y las matrices de confusión.
-        Para RetinaNet se incluyen los códigos modificados de los originales con implementaciones distintas.
+
+        Para RetinaNet se incluyen los códigos:
+             ConfuseMatrix.py que se genro para la cración de matrices de confusion que originalmente no se incluye en el GuitHub del modelo.
+             trainMoidif.py  codigo modificado de train.py disponible en el GuitHub del modelos que implemnta el uso de patience, el guardado del modelo con mejor desempeño, la generacin de la grafica de perdida total y el mAP promedio.
+             modelModif.py codigo modificado de model.py disponible en el GuitHub del modelos qe implementa un bosqueo del modulo de atencion no probado ya que se decidio no usar pero se añade dado el caso que se quiera  explorar y/o mejorar.
+
 
 
     EntrenaYOLO.ipynb:
