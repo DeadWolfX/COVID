@@ -514,9 +514,9 @@ def Generate_Matrix(test_csv, model_path, class_list,mod_pred,save_path,mode):
         matriz_confusion = [[AA,EA,CA,IA,NfA,NeA,NtA,MA,NA],[AE,EE,CE,IE,NfE,NeE,NtE,ME,NE],[AC,EC,CC,IC,NfC,NeC,NtC,MC,NC],[AI,EI,CI,II,NfI,NeI,NtI,MI,NI],[ANf,ENf,CNf,INf,NfNf,NeNf,NtNf,MNf,NNf],[ANe,ENe,CNe,INe,NfNe,NeNe,NtNe,MNe,NNe],[ANt,ENt,CNt,INt,NfNt,NeN,NtNt,MNt,NNt],[AM,EM,CM,IM,NfM,NeM,NtM,MM,NM],[AN,EN,CN,IN,NfN,NeN,NtN,MN,NN]]
     
         clases = ['A', 'E','C','I','Nf','Ne','Nt','M','N']  
-        sns.set(font_scale=1.2)  # Ajusta el tamaño de la fuente
+        sns.set(font_scale=12)  # Ajusta el tamaño de la fuente
         plt.figure(figsize=(50, 50))
-        sns.heatmap(matriz_confusion, annot=True, fmt="d", cmap="Blues", annot_kws={"size": 16},xticklabels=clases, yticklabels=clases)
+        sns.heatmap(matriz_confusion, annot=True, fmt="d", cmap="Blues", annot_kws={"size": 60},xticklabels=clases, yticklabels=clases)
         plt.xlabel('Predicción')
         plt.ylabel('Realidad')
         plt.title('')
@@ -527,9 +527,9 @@ def Generate_Matrix(test_csv, model_path, class_list,mod_pred,save_path,mode):
         matriz_confusion = [[TT,TN,TI,TA],[NT,NN,NI,NA],[IT,IN,II,IA],[AT,AN,AI,AA]]
     
         clases = ['T', 'N','I','A']  
-        sns.set(font_scale=1.2)  # Ajusta el tamaño de la fuente
+        sns.set(font_scale=12)  # Ajusta el tamaño de la fuente
         plt.figure(figsize=(50, 50))
-        sns.heatmap(matriz_confusion, annot=True, fmt="d", cmap="Blues", annot_kws={"size": 16},xticklabels=clases, yticklabels=clases)
+        sns.heatmap(matriz_confusion, annot=True, fmt="d", cmap="Blues", annot_kws={"size": 60},xticklabels=clases, yticklabels=clases)
         plt.xlabel('Predicción')
         plt.ylabel('Realidad')
         plt.title('')
