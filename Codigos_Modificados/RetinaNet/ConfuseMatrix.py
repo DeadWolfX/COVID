@@ -526,7 +526,7 @@ def Generate_Matrix(test_csv, model_path, class_list,mod_pred,save_path,mode):
 
         matriz_confusion = [[TT,TN,TI,TA],[NT,NN,NI,NA],[IT,IN,II,IA],[AT,AN,AI,AA]]
     
-        clases = ['T', 'N','I','A']  
+        clases = ['Típico', 'Negativo','Indeterminado','Atípico']  
         sns.set(font_scale=12)  # Ajusta el tamaño de la fuente
         plt.figure(figsize=(50, 50))
         sns.heatmap(matriz_confusion, annot=True, fmt="d", cmap="Blues", annot_kws={"size": 60},xticklabels=clases, yticklabels=clases)
