@@ -1,3 +1,43 @@
+English
+
+Here are the codes used in the development of the master's thesis titled "Deep Learning Strategies for the Identification and Localization of COVID19-Induced Damage Using X-ray Radiographs." The folder structure in this main folder is as follows:
+
+Anotaciones:
+
+Folder containing the different annotations used to train the deep learning models. For each dataset, there is a folder containing annotations for RetinaNet, as generating annotations for YOLO is straightforward using the files in the Data folder and the codes in the Data_Codes folder, both present in this repository. Each compressed file contains a text file with a description of the content.
+
+Codigos_Datos:
+
+Folder containing three Jupyter Lab notebooks, each with codes and functions used to generate annotations contained in the previously described folder and data processing for each dataset.
+
+Datos:
+
+Contains respective text files for each dataset used, summarizing structured information about each dataset.
+
+Exploratorios:
+
+Contains three Jupyter Lab notebooks, one for each dataset used. These notebooks contain the codes and functions used to perform the respective exploratory analyses.
+
+env.yml:
+
+Anaconda virtual environment configuration containing all the necessary libraries for exploratory analysis, visualization, data preprocessing, and labeling manipulation.
+
+Entrenamientos:
+
+The weights of the trained models described in the thesis as well as graphs and complete training information are available in the drive folder at the following link:
+https://drive.google.com/drive/foldFKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link
+
+Codigos_Modificados:
+
+Contains two folders, one for each model. For YOLO, the code with added convolution layers to test the model is included, as well as the Jupyter Lab notebook used in training and for generating confusion matrices.
+For RetinaNet, the following codes are included:
+
+ConfuseMatrix.py: Generated for creating confusion matrices, originally not included in the model's GitHub.
+trainMoidif.py: Modified code of train.py available in the model's GitHub, implementing the use of patience, saving the model with the best performance, generating the total loss and average mAP graph, as well as knowledge transfer.
+modelModif.py: Modified code of model.py available in the model's GitHub, implementing a sketch of the unused attention module, added in case it is desired to explore and/or improve it.
+
+Spanish
+
 Aquí se encuentran los códigos utilizados en el desarrollo de la tesis de maestría titulada "Estrategias de aprendizaje profundo para la identificación y localización de daños generados por COVID19 usando radiografías de rayos X."
 La estructura de carpetas en esta carpeta principal es la siguiente:
 
