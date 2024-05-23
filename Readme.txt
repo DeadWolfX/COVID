@@ -1,4 +1,4 @@
-###########################################################################################English#######################################################################################################################################
+###############################################English##########################################################
 
 Here are the codes used in the development of the master's thesis titled "Deep Learning Strategies for the Identification and Localization of COVID19-Induced Damage Using X-ray Radiographs." The folder structure in this main folder is as follows:
 
@@ -54,7 +54,7 @@ Modified_Codes:
 
             File containing information about the execution of ConfuseMatrix.py.
 
-########################################################################################Spanish#############################################################################################################################################
+###################################################Spanish#################################################################
 
 Aquí se encuentran los códigos utilizados en el desarrollo de la tesis de maestría titulada "Estrategias de aprendizaje profundo para la identificación y localización de daños generados por COVID19 usando radiografías de rayos X."
 La estructura de carpetas en esta carpeta principal es la siguiente:
