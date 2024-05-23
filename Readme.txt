@@ -54,7 +54,7 @@ Modified_Codes:
 
             File containing information about the execution of ConfuseMatrix.py.
 
-###################################################Spanish#################################################################
+###################################################Spanish#########################################################
 
 Aquí se encuentran los códigos utilizados en el desarrollo de la tesis de maestría titulada "Estrategias de aprendizaje profundo para la identificación y localización de daños generados por COVID19 usando radiografías de rayos X."
 La estructura de carpetas en esta carpeta principal es la siguiente:
