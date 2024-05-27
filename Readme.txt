@@ -34,6 +34,8 @@ Modified_Codes:
 
     For RetinaNet, the following codes are included:
 
+        AumentoSIIM: Code to realize data augmentation for RetinaNet
+
         ConfuseMatrix.py:
 
             Code developed for generating confusion matrices for RetinaNet.
@@ -90,6 +92,8 @@ Códigos_Modificados: Contiene dos carpetas, una para cada modelo:
     Para el caso de Y.O.L.O, se incluye el código con las modificaciones en el módulo de atención, así como el cuaderno de Jupyter Lab utilizado en el entrenamiento que contempla las modificaciones para la generación de matrices de confusión.
 
     Para RetinaNet, se incluyen los códigos:
+
+        AumentoSIIM: Código que permite hacer aumento de datos para RetinaNet
 
         ConfuseMatrix.py: 
             
