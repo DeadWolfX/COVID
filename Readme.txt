@@ -34,7 +34,9 @@ Modified_Codes:
 
     For RetinaNet, the following codes are included:
 
-        AumentoSIIM: Code to realize data augmentation for RetinaNet
+        AumentoSIIM.ipynb: 
+
+            Code to realize data augmentation for RetinaNet
 
         ConfuseMatrix.py:
 
@@ -93,7 +95,9 @@ Códigos_Modificados: Contiene dos carpetas, una para cada modelo:
 
     Para RetinaNet, se incluyen los códigos:
 
-        AumentoSIIM: Código que permite hacer aumento de datos para RetinaNet
+        AumentoSIIM.ipynb: 
+
+            Código que permite hacer aumento de datos para RetinaNet
 
         ConfuseMatrix.py: 
             
