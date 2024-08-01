@@ -18,6 +18,5 @@
             <li><b>modelModif.py: </b></li> Modified code from model.py available on the <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet model's GitHub</a>, implementing a draft of the unused attention module, but added in case it is wanted to explore and/or improve.
             <li><b>visualize_single_image.py:</b></li> Modified code from visualize_single_image.py available on the RetinaNet model's GitHub, which underwent corrections as it had faults when executed.
         </ul>
-    </ul>
- <li><b>Note.csv:</b></li>  File containing information about the execution of ConfuseMatrix.py.   
+    </ul>  
 </ul>  
