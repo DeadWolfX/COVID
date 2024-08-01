@@ -1,4 +1,0 @@
-info_original:
-	Contiene la informacion resumida y original del conjunto SIIM
-info_corrected:
-	Contiene la información  con las anotociones corregidas, las que encierran regiones fuera de la imagen se limitan a los bordes de la imagen y las imagenes de negativos contienen las anotaciones de tipo 1 (recuadro al rededor de la imagen).
