@@ -14,7 +14,7 @@
         <ul>
             <li><b>AumentoSIIM.ipynb:</b></li> Code to realize data augmentation for RetinaNet.
             <li><b>ConfuseMatrix.py:</b></li> Code developed for generating confusion matrices for RetinaNet.
-            <li><b>trainMoidif.py:</b></li> odified code from train.py available on the RetiaNet model's GitHub, implementing patience usage, saving the model with the best performance, generating total loss and mAP graphs, and knowledge transfer.
+            <li><b>trainMoidif.py:</b></li> odified code from train.py available on the <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet model's GitHub</a>, implementing patience usage, saving the model with the best performance, generating total loss and mAP graphs, and knowledge transfer.
             <li><b>modelModif.py: </b></li> Modified code from model.py available on the <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet model's GitHub</a>, implementing a draft of the unused attention module, but added in case it is wanted to explore and/or improve.
             <li><b>visualize_single_image.py:</b></li> Modified code from visualize_single_image.py available on the RetinaNet model's GitHub, which underwent corrections as it had faults when executed.
         </ul>
