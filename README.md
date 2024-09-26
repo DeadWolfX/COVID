@@ -63,3 +63,6 @@ With JupyterLab running, we have access to a data directory opened in the web br
 
 First, download the Jupyter Notebook related to the desired analysis, available in the project repository <a href="https://github.com/JairMathAI/COVID/tree/main/Exploratorios">here</a>. 
 
+Second, for each analysis, the Notebook requires the relevant information for each dataset, which is available in the corresponding dataset folder in this repository <a href="https://github.com/JairMathAI/COVID/tree/main/Datos">here</a>.
+
+To run the respective Notebook for each dataset, the following information file is needed:
