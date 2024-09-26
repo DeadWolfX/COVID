@@ -31,3 +31,5 @@ First, we need to obtain the necessary image datasets for the project.
     <li><b><a href="https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data">RSNA Pneumonia</a></b></li>
     <li><b><a href="https://www.kaggle.com/c/siim-covid19-detection/data">SIIM-FISABIO-RSNA COVID19</a></b></li>
 <ul>
+
+To work, we need a virtual environment managed by Anaconda. For instructions on how to install Anaconda, please follow the official guide: <a href="https://docs.anaconda.com/anaconda/install/">Here</a>.
