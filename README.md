@@ -49,6 +49,8 @@ Then, to create the environment, run the following command in the Anaconda shell
 ```bash
 conda env create -f path/env.yml
 ```
+Once we have the necessary environments, we can perform various tasks.
 
+<h3>Replicate the exploratory analysis.</h3>
 
 
