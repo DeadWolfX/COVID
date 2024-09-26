@@ -76,7 +76,12 @@ To run the respective Notebook for each dataset, the following information file 
 
 For the correct execution of the notebooks, it is required that the paths to the directories containing the images are updated in the current Notebook and that the images are in the correct format.
 
-<h3>Manipulating the raw images of the datasets</h3>
+<h3>Preparing images and annotations</h3>
 
 To run the notebooks for the exploratory analysis and model training, we need to transform the images of each dataset appropriately, ensuring they meet the required format and size, and generate the provided annotation files, for example.
+
+
+You can use the codes in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos</a> folder to adjust the images to the correct size and format. Alternatively, you can run the code that resizes the images and saves them in PNG format.
+
+The <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones:</a> folder contains the necessary annotations for the direct execution of <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a>, as explained in the respective GitHub project. For training with <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>., a YAML file is required, as detailed in the corresponding GitHub documentation. The annotations for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>. can be derived from the provided <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a> annotations using the codes available in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos</a>  folder. Alternatively, we can start with the data summary information in the <a href="https://github.com/JairMathAI/COVID/tree/main/Datos">Datos:</a> folder and format the annotations as needed using a custom script, taking into account the annotation format required for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>.
 
