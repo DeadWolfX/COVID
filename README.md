@@ -72,4 +72,6 @@ To run the respective Notebook for each dataset, the following information file 
 
 <a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_SIIM.ipynb">Exploratorio_SIIM.ipynb</a> requires the path to the original train_image_level.csv and train_study_level.csv files provided with the origininal dataset.<br>
 
-<b>Importan Note:</b>
+<b>Importan Note:</b><br>
+
+sldkjshskjdlsaklñdas
