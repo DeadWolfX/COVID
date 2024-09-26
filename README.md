@@ -53,4 +53,13 @@ Once we have the necessary environments, we can perform various tasks.
 
 <h3>Replicate the exploratory analysis.</h3>
 
+We need to work with the Anaconda environment previously created using the env.yml file and start JupyterLab by running the following command within the environment:
+
+```bash
+jupyterlab
+```
+
+With JupyterLab running, we have access to a data directory opened in the web browser. According to the exploratory analysis we want to replicate, we need two main things:
+
+First, download the Jupyter Notebook related to the desired analysis, available in the project repository <a href="https://github.com/JairMathAI/COVID/tree/main/Exploratorios">here</a>. 
 
