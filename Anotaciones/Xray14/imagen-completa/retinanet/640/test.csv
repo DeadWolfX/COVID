@@ -1,0 +1,110 @@
+path,x1,y1,x2,y2,class
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00007043_000.png,182,225,513,499,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00018657_003.png,452,281,558,464,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00028640_003.png,356,323,465,425,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00018101_012.png,107,115,269,317,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00014617_003.png,254,302,369,411,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000032_019.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00003973_008.png,110,341,248,464,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00009403_006.png,467,260,515,293,Nodule
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000032_009.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000032_008.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00019892_003.png,356,74,515,136,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000506_013.png,353,143,516,507,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00029808_003.png,381,212,504,401,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00030162_026.png,337,168,396,214,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00021845_001.png,192,233,434,461,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000398_003.png,230,243,533,478,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00012892_010.png,234,140,300,224,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00017514_008.png,216,278,551,488,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00016094_007.png,111,295,187,379,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00016009_008.png,357,360,454,516,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00020000_000.png,168,82,224,100,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00015425_012.png,241,180,519,402,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000032_005.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013659_019.png,182,52,249,84,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00022899_000.png,447,300,586,498,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00016705_006.png,435,198,492,345,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00006304_060.png,436,209,545,368,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00009218_015.png,121,136,259,507,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00023156_001.png,143,144,240,216,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00014149_018.png,412,273,516,440,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013885_000.png,272,170,300,198,Nodule
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00010959_010.png,132,306,182,344,Nodule
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00021420_014.png,492,169,536,218,Nodule
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00003149_007.png,339,234,486,423,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00029940_007.png,132,239,222,353,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013249_033.png,259,251,551,467,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000845_000.png,231,229,515,495,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00020393_003.png,425,338,564,398,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00011827_003.png,355,294,547,371,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000193_019.png,439,385,576,541,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00014223_009.png,140,242,442,421,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00010575_002.png,434,369,589,478,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000032_002.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00011269_019.png,458,261,594,379,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00017972_026.png,414,154,471,282,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013635_002.png,226,206,516,437,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00025732_004.png,136,243,472,503,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00012299_002.png,122,359,533,409,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00029894_000.png,446,317,590,453,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00019373_058.png,203,206,280,304,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00011832_002.png,465,219,509,265,Nodule
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00011237_006.png,127,253,255,465,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000032_003.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00021420_027.png,120,353,186,407,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00001039_005.png,367,172,499,346,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00003064_035.png,336,349,511,510,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00017083_002.png,98,216,220,355,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00018253_017.png,84,164,176,497,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00008554_009.png,379,309,522,413,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000031_000.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00021024_022.png,449,326,551,445,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00019499_000.png,452,195,522,256,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00012045_005.png,369,242,522,412,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000029_000.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00002106_000.png,398,267,479,364,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000457_004.png,501,176,560,241,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000023_003.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013508_001.png,202,370,313,427,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000032_020.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00029617_006.png,384,369,520,474,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00022572_063.png,44,323,220,523,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00026392_005.png,352,69,550,229,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00009437_008.png,470,372,572,421,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00014626_035.png,94,107,228,598,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013461_011.png,98,78,542,591,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00011857_001.png,434,320,602,423,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00003072_028.png,15,211,193,493,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00007034_016.png,479,360,535,470,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00003400_003.png,380,35,530,178,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00015018_004.png,503,225,537,261,Nodule
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00016837_002.png,88,411,258,470,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00009619_000.png,187,411,255,482,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013992_006.png,175,329,255,379,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00020113_030.png,163,247,247,327,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00020774_000.png,143,298,181,337,Nodule
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00017582_003.png,160,251,285,341,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013111_069.png,296,251,386,413,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00013125_000.png,105,253,519,515,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00007735_040.png,249,298,588,578,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00000032_010.png,0,0,640,640,No Finding
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00016732_027.png,385,298,523,419,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00021443_000.png,178,232,519,492,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00014177_010.png,118,243,197,388,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00028628_020.png,391,211,456,264,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00026586_009.png,122,116,229,197,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00022416_004.png,511,293,601,418,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00018693_004.png,187,272,530,522,Cardiomegaly
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00017346_000.png,545,384,563,405,Nodule
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00028774_047.png,33,305,148,498,Effusion
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00010767_016.png,73,111,268,480,Pneumothorax
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00005869_001.png,109,182,221,357,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00001836_082.png,106,356,208,424,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00011925_077.png,175,122,363,417,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00020184_013.png,96,308,241,463,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00005532_022.png,343,126,451,244,Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00017972_032.png,116,163,272,433,Infiltrate
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00029502_006.png,138,368,295,480,Atelectasis
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00017670_005.png,230,369,305,461,Mass
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00028285_014.png,412,285,544,493,Pneumonia

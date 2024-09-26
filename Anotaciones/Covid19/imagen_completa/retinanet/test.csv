@@ -1,0 +1,931 @@
+path,x1,y1,x2,y2,class
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6df2d2ec8f31.png,116,192,276,342,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/60a3a716ccba.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e205526f7405.png,385,135,594,327,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/aad8d468f93a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/75c9fe12ad0f.png,163,271,282,399,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1dfbfe0ab56a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4584a4dd0ec8.png,126,191,309,407,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d69a7e63c358.png,225,115,410,358,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ed2e387ef4fa.png,398,358,521,536,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/66526ae5dfc7.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f5c9bf7a037f.png,398,84,715,443,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c6dd0553089c.png,502,266,677,420,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f972e983e0cd.png,52,93,279,405,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d7cd649d9c82.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/99019b7af0ab.png,116,127,200,337,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c9e99fb05bdb.png,380,151,588,425,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6ea732c63929.png,355,226,658,475,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d2d1058fb70c.png,499,162,616,273,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c0d9174d42ac.png,523,201,746,524,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/608a6601635e.png,472,318,636,394,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d10f9027aaf3.png,503,189,608,358,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ff46eefd123c.png,562,217,635,286,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7a7a343ae1c1.png,101,344,319,464,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8e71593ab832.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ebe8a296c70d.png,156,132,340,319,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/78305d709f4f.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c63f93b9e947.png,193,104,377,318,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/12fed1674c84.png,35,31,317,357,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/592f4c2d20f7.png,447,24,734,404,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3df2c9d30cdf.png,424,295,523,485,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/55c9ffe72cc5.png,138,56,326,347,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c4fa3a69fae0.png,98,152,282,496,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5d252a9ba2f5.png,441,96,725,412,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9811c7e34bb1.png,231,254,409,436,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3f2743e23640.png,493,201,644,375,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d9bea6b28f9f.png,498,202,700,417,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/21dab7687d24.png,9,85,212,374,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/105deb886dcf.png,105,267,302,471,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/30fa38c1426f.png,81,262,175,385,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/dc3934dc9f96.png,408,87,656,395,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1fa7cc9dd7d7.png,505,122,719,373,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7552b4fc4bb8.png,85,234,201,320,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/105deb886dcf.png,576,273,727,506,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/aa301afc5162.png,484,178,547,393,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/735e6a12b1b5.png,64,123,292,497,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d2d1058fb70c.png,245,223,345,383,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6896ce94b652.png,111,121,287,363,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7f5bf4d22256.png,29,89,345,496,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6a93346150a4.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c04e00187179.png,616,76,767,270,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/722d5b23e31e.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1ae2c3d63f1c.png,104,209,253,308,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e98f43cd0867.png,514,324,678,455,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/24f00cdcedec.png,432,158,603,500,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/57c6e5cf617a.png,186,282,329,403,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7fc06d300d14.png,464,65,638,304,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/90e192f887df.png,434,228,667,361,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fb5d173c4c47.png,387,106,514,226,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d69a7e63c358.png,540,130,727,371,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2eb83e7d6a43.png,453,216,544,412,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5458c3cd03a3.png,143,241,365,429,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/17538bc27057.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/73b965e6c11c.png,184,94,377,410,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/202ce5802ee2.png,151,150,225,241,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d45dcc66aade.png,153,159,268,249,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7ba2d2724bc2.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a48c16f1d0e5.png,546,128,729,482,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ea6cb1120c3d.png,124,116,342,444,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/800f8d136ef5.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1335b56b7a98.png,105,345,229,441,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d436ae99d4f8.png,147,165,259,328,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8293e88f28d6.png,217,336,313,402,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ff7659762b75.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1ec5a611f850.png,585,231,714,323,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d436ae99d4f8.png,451,195,575,348,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/63f7496b87dd.png,59,237,261,421,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c80d2df370e8.png,572,221,660,285,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a61ec2856ea1.png,93,169,200,401,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0f9ef2e963bf.png,194,111,376,339,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/37c3ad608cb3.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e31fc5148d42.png,559,352,708,507,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00326161e51e.png,477,176,646,350,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d417f8e64511.png,187,224,331,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bc21df79edc9.png,76,232,344,377,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e97c90dad798.png,61,83,301,517,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7fc06d300d14.png,229,44,388,310,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9ce5032a4dfd.png,512,283,698,421,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/aa18b67e9ecd.png,428,248,555,352,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cc80f91e686e.png,370,212,513,392,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1e82f179e878.png,77,110,302,369,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4df6cc0a6472.png,701,275,753,482,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/de023e0fc394.png,162,49,369,326,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7a7a343ae1c1.png,512,312,716,491,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e7e96a713fc6.png,458,0,656,399,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8e40fc497165.png,396,315,504,465,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8f2960c590a4.png,68,212,270,414,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3dc1c735c130.png,107,300,166,391,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ab0a52f278e2.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ce2c42b51f24.png,428,357,573,478,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b97ca034b024.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fe1bd72325f8.png,554,106,688,341,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8d580fd76487.png,456,143,623,406,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f99ff59c6cbf.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c6dd0553089c.png,173,225,331,389,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ec106607aaae.png,172,26,264,200,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/26b96183f262.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8cd29e5eac35.png,115,105,353,363,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e6e73caaf8d4.png,417,218,665,443,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3196ed78c313.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f9b6bd4593c8.png,89,211,239,341,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5b8a35fa9e37.png,596,217,714,462,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c7e30d6294b7.png,88,178,190,382,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d7353d147f2c.png,15,150,161,449,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2a29437b06df.png,51,69,220,385,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/dfc7b258312f.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/61ca700c2908.png,173,114,360,380,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bcd2179fa24e.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/be8e7e925b95.png,176,91,359,306,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bfd4c9f56059.png,98,45,415,435,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/692bdb3acbd8.png,79,74,282,313,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd43f505780f.png,71,222,212,464,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0f545de555fd.png,34,166,260,378,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d737a0d185e4.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/08f9fa7120c4.png,196,358,299,419,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ad4901d0adff.png,180,62,351,330,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e6e73caaf8d4.png,115,125,322,439,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ebcdd0f1c8a1.png,156,113,238,213,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ba91ac5eeae1.png,119,197,191,314,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f43913da5bde.png,473,50,618,286,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3615df9cfc90.png,169,116,333,358,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/72d9c3f33aeb.png,201,253,321,361,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b043ad7772e6.png,556,103,671,242,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/41751eb3b214.png,236,146,337,255,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/039c86552c5a.png,162,231,228,340,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/81b8374e4e1c.png,162,281,305,426,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/43bc2ec3ced8.png,122,185,301,397,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5a462d6eb606.png,481,119,624,250,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f11cdf2bbf5f.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8b69eacf9a7b.png,116,360,344,442,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bbaba561b590.png,47,197,279,519,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c4fa3a69fae0.png,388,150,637,459,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c12672d401e4.png,440,205,623,386,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/93bba7a74049.png,508,61,659,269,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ed3682285d63.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8ec412c03bbb.png,620,201,700,341,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cbc0508e6f59.png,84,341,190,438,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fa9729ef16b6.png,179,126,432,362,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d39c70f90d67.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/692bdb3acbd8.png,539,105,743,377,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/888109901b29.png,404,146,608,414,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/73c3ef06731e.png,499,146,698,357,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b388d75427fb.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f4554ede3eb5.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fd216bc37e84.png,352,205,564,406,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/186681f1cb60.png,171,246,250,389,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d01e8fd2c78d.png,93,194,236,288,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a10ebe4a5522.png,400,223,532,424,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/db98196e5558.png,406,73,693,392,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00326161e51e.png,148,82,310,283,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4507b1846ced.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e64a3003925c.png,202,111,366,349,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/acd6abf84731.png,124,126,247,420,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/077fe957981a.png,103,310,322,410,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7e53a1e1f1be.png,150,46,338,381,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/15e6cb19e0df.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/21905d725d81.png,124,228,254,363,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0b49d75e3b51.png,191,73,351,331,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/227e68d2cb58.png,390,245,708,424,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2652dc8fcb4b.png,419,280,690,425,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2268ed37b205.png,88,362,119,410,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/eedd7a853545.png,482,317,597,439,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c47049befba6.png,238,125,339,225,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e563f54f421c.png,138,271,364,392,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bff9ffea639f.png,418,147,571,286,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2b58c5262bf9.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/307f96b74288.png,158,50,427,344,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5f79c81b9eb4.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5b2261258aa5.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d10f9027aaf3.png,164,73,269,261,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8069c13ddcb9.png,143,329,313,424,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/08f9fa7120c4.png,458,194,547,290,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/746412688bc8.png,138,135,317,413,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c6a53ade1af1.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b8b7df1b6e04.png,160,193,291,420,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4ebd5e9e1235.png,347,15,625,372,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/87236e3ea6b3.png,480,154,676,459,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/850e41638d39.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5f8ec78b79c4.png,272,142,338,211,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f972e983e0cd.png,456,230,698,405,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1fce5a22d0ac.png,301,54,476,349,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ec106607aaae.png,463,107,701,460,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/80cbb8146744.png,133,178,231,304,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/488bee5db2c7.png,452,59,612,330,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bb484ab7a8c6.png,492,241,604,319,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d2909cb9f49e.png,134,113,306,299,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/66b1f8f4b3cf.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a535db085fbf.png,496,95,683,328,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d24a399e94c4.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8069c13ddcb9.png,447,346,643,426,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/79d3329ab044.png,36,104,209,440,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c9e99fb05bdb.png,103,188,316,423,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/beba206be689.png,81,269,229,487,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/697ea3ceee9e.png,496,133,630,433,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a10ebe4a5522.png,167,178,297,354,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2a1fbe855dee.png,482,54,638,370,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f3d975c4ca97.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8e486df25480.png,504,131,658,370,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/82436fda2f12.png,536,200,691,394,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1fdd10b0a7c2.png,184,249,325,445,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/75e68ff861bb.png,221,80,343,372,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fbe2cdaa2354.png,456,248,721,452,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ac979b5bce43.png,58,67,262,302,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/394536fc0dca.png,92,295,210,458,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a535db085fbf.png,180,85,389,341,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/22cd8d57d2b1.png,130,225,328,402,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9b07ebb8d30c.png,531,273,746,456,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9cf785a113a5.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ab1b0948a01f.png,406,177,583,440,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8f2960c590a4.png,477,322,631,403,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/69aaaf77efdb.png,474,319,720,460,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/27adbea6c748.png,425,45,708,384,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e190c0f7d7b9.png,288,204,352,309,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e2b1bc1970e1.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/40ba7131aac7.png,481,278,623,422,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/077fe957981a.png,416,317,638,424,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9b52e8dc03cb.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a5ec3831886a.png,454,155,695,427,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9da68fc712bd.png,551,241,707,365,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/28322cd5b3a4.png,477,200,595,372,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4368a4b5ad6d.png,476,300,677,412,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d169b65a8331.png,165,129,349,381,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c1081aafd290.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c6625bd3fedb.png,504,25,735,368,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3f8515b00209.png,473,276,580,375,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fc9d227a2b94.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2da7581bab1e.png,109,260,296,404,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b13582b26a48.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0ead88a9e781.png,89,206,121,237,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fb5d173c4c47.png,57,99,252,283,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d9fcf8a842e4.png,415,361,602,476,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d355ba313f5e.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a5ec3831886a.png,212,160,411,402,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a82bf3cc9727.png,522,353,658,463,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/92dd4fbfa962.png,157,71,415,396,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e350c6a1acbd.png,562,257,762,414,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6b4538ea6062.png,106,149,300,256,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8e9633a5f516.png,540,185,671,410,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd3029307926.png,103,7,381,346,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2529d7e89b5f.png,136,324,224,424,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7b6dea79f2aa.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8ac094a0ec17.png,199,113,343,364,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bf0c71616088.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/35fd2e2f7754.png,551,335,660,442,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/75aed394a4e4.png,199,215,378,371,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2807582ad24e.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d417f8e64511.png,517,298,697,432,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/670d9645d4a4.png,407,342,633,501,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/dca9116538c8.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5fb9c3bc1e1c.png,497,158,637,283,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/814c444eca84.png,148,128,315,394,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f3dd0489e1a7.png,502,314,612,416,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2ce4a103d25d.png,94,102,258,447,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/47fc0153c848.png,136,101,276,272,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ce791c49771d.png,82,305,263,406,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cc1b73f49815.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/73b965e6c11c.png,435,118,687,476,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/22d2fa33d2d1.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b443cd373f64.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd3029307926.png,466,0,716,300,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ce289d7a37bb.png,508,264,614,395,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2881f01cf3f1.png,127,121,244,401,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2cfc6491579a.png,169,202,376,299,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d7fce155ce7c.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/52478e480a15.png,116,95,262,355,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e590e800f892.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c59a5aaf618a.png,187,98,335,324,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9811c7e34bb1.png,481,161,733,438,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1fce5a22d0ac.png,552,78,731,380,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/41751eb3b214.png,593,149,769,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/08f493a7fb3f.png,420,361,504,459,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/095b28ad701c.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/74ef938282be.png,543,269,600,367,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/171561486151.png,491,233,652,457,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c082ad097fd2.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/82436fda2f12.png,234,166,370,360,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/636140b67fd6.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d45dcc66aade.png,530,145,610,336,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/aa18b67e9ecd.png,154,202,299,305,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e393f9122068.png,568,202,650,257,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/db98196e5558.png,112,98,375,361,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/307f96b74288.png,463,69,760,388,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4c3acc13335c.png,96,52,374,412,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/08cf0b5663bd.png,443,145,544,260,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/57c6e5cf617a.png,484,178,645,352,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bff9ffea639f.png,451,312,629,400,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6896ce94b652.png,368,143,587,415,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/697ea3ceee9e.png,49,147,164,444,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/da4b622d58bc.png,391,350,526,454,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a795d215c013.png,154,229,257,284,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/734261399d24.png,23,328,220,592,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/449d9eb956b5.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0f545de555fd.png,551,212,704,413,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c931296826c2.png,506,357,596,446,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fd216bc37e84.png,48,197,227,443,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4dc51d0b21f4.png,69,84,297,325,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0f753ccffca5.png,420,0,657,347,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8866f708d338.png,44,40,347,374,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e584fc8f38ed.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/76767c467873.png,485,163,656,446,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e616156054ac.png,119,136,217,340,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f5c9bf7a037f.png,35,72,369,495,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ea42a66bba4b.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1335b56b7a98.png,400,353,573,571,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/763b2412292e.png,499,223,681,449,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ed728788cc3d.png,127,99,239,209,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4aadd235fc9c.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fbe2cdaa2354.png,137,67,395,463,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b14aa9495194.png,372,142,604,454,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a2a5696465d1.png,122,347,353,505,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/19f7b3d9e2f0.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c6625bd3fedb.png,208,22,469,339,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/893fde8abd42.png,405,144,691,494,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9178cdb575d7.png,157,367,203,396,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5c4864ceb9b2.png,311,91,553,445,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/407b66d46c36.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/12fed1674c84.png,398,1,725,403,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e5423ff79c03.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/70e85faa319e.png,231,285,338,373,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/55c9ffe72cc5.png,436,79,582,325,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1002a04f3cde.png,155,185,344,344,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8cd29e5eac35.png,461,163,689,426,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/06f4f2f03a93.png,414,393,547,452,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bc80e90e5c26.png,118,160,274,450,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d60459d04826.png,496,132,692,336,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8e9633a5f516.png,175,45,348,456,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/588b5f226959.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/35d4359edb51.png,566,168,677,367,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0d17348ba547.png,478,268,569,369,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e98f43cd0867.png,94,233,314,381,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d49812750c70.png,117,168,261,378,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/06ee89a4efe9.png,481,141,648,313,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/13b6d8ab6647.png,569,122,690,438,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0452c373f62b.png,49,214,280,394,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8867667cef09.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f609d59b929e.png,449,391,597,501,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/db27626f6cf2.png,125,97,368,382,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9c18a904fbed.png,107,105,311,300,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d169b65a8331.png,457,113,617,345,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e34939f0a328.png,44,112,280,507,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f33c3310cbaa.png,436,250,615,394,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4364230d15f1.png,132,140,279,393,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/46bf2b62ad40.png,267,105,463,364,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9178cdb575d7.png,126,188,193,266,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/70fbcd6dcc53.png,115,98,296,319,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3bd241da31bc.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0f9ef2e963bf.png,554,250,697,344,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c0d9174d42ac.png,168,202,349,503,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/53989cc7039c.png,655,345,718,405,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/beaad17c1748.png,126,208,178,317,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/95bf5f4f6153.png,289,288,444,487,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c1b6543eea29.png,448,285,586,382,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8e45c71fa47d.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/345ff154ba07.png,129,197,275,362,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/28322cd5b3a4.png,85,180,285,350,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8b35749b7bc6.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/08cf0b5663bd.png,235,137,333,212,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c1b6543eea29.png,209,267,353,365,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/db27626f6cf2.png,469,98,707,433,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/43bc2ec3ced8.png,526,246,697,423,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/45f0608b7850.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bc21df79edc9.png,411,232,670,365,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fa1a1dd477c2.png,421,149,684,493,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9178cdb575d7.png,509,319,596,385,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9178cdb575d7.png,72,362,118,396,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1868b773b6f3.png,176,146,327,381,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2881f01cf3f1.png,532,283,662,387,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/187a15369d36.png,460,108,610,308,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ad4901d0adff.png,452,54,671,358,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7fac771f8c22.png,124,314,225,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d9fcf8a842e4.png,21,299,233,423,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c4dfb1c766c1.png,75,208,290,411,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9e780cc1d9c5.png,71,327,218,515,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6b4538ea6062.png,411,387,637,500,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5896e41fcc13.png,281,95,471,348,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3dd07c4082ce.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fa183ba97096.png,500,326,633,416,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd6ead44cfef.png,551,129,704,317,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d67e15fad409.png,422,131,666,400,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2b75e15bcdb4.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd3ed4265251.png,371,257,589,530,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9178cdb575d7.png,104,281,169,342,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2efce4f80222.png,375,190,518,376,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/87d22d9e1136.png,555,209,675,312,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d613c07a006e.png,141,241,235,355,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6b4538ea6062.png,24,380,223,480,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/14fe3a3839c0.png,131,294,262,457,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4ef5fa3a4bc6.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e190c0f7d7b9.png,332,107,392,206,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8d580fd76487.png,132,133,303,356,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9da68fc712bd.png,139,243,317,385,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f609d59b929e.png,64,278,272,603,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7919006c6312.png,295,67,476,401,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fdd63e69cc58.png,490,219,607,311,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8dc3ee79f389.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a73769bb6d03.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/933f80e2c741.png,179,158,358,517,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2ac27ce316d5.png,114,54,345,412,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7e35c1c82ff3.png,175,208,370,358,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4dc51d0b21f4.png,419,187,650,347,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c30135419d0c.png,186,319,272,445,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7c40e04c6163.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ae8fecc25309.png,9,220,114,329,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/332334927996.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f5b4e8d1c058.png,97,66,331,356,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cbc0508e6f59.png,457,196,593,423,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7960d64c392f.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cec07acf2c6e.png,174,47,361,398,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/525b5548d3f3.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5c72e8548a70.png,43,142,242,330,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/24f00cdcedec.png,195,155,252,211,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd04f98c2f2b.png,540,321,638,424,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fa1a1dd477c2.png,65,235,355,465,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/627a5f9f33a6.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8fcdd69753ab.png,432,89,603,420,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/75c9fe12ad0f.png,204,73,306,212,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/07fe0210c4d2.png,513,252,621,400,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/015ac3c7199d.png,132,24,354,441,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5b8a35fa9e37.png,141,134,241,469,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/959167b5226d.png,53,75,289,361,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4584a4dd0ec8.png,469,346,647,448,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/78dd642c634a.png,504,288,575,339,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/24f00cdcedec.png,44,296,162,431,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9ac13db7cb74.png,88,74,297,362,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6dc786c00bda.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00b0891276a3.png,123,103,306,441,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c50f63f7cbe9.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/67995d63d73a.png,77,58,303,464,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/086f1ab39050.png,577,240,702,362,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a0d21f9177d6.png,552,140,713,331,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/025c5bde94c7.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d176b5544d10.png,121,330,387,440,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2feb3afc8481.png,141,180,244,339,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ff46eefd123c.png,230,99,265,125,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5f8ec78b79c4.png,616,184,716,342,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/93bba7a74049.png,222,96,325,225,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0ac7cf154967.png,486,207,580,266,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/78148afc0575.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a4cfc6a085c6.png,154,31,403,232,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/98721e6d2bde.png,189,306,309,376,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8ece05be5b24.png,134,293,256,396,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6f9a5f616c30.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/171561486151.png,126,184,288,331,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/796c8b8701bf.png,413,89,646,494,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6d2fe511f8b2.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8e486df25480.png,172,70,348,342,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/499464f6cdc9.png,150,153,293,308,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4364230d15f1.png,315,118,510,253,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd3ed4265251.png,15,239,197,536,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/725357f9fa54.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e616156054ac.png,501,253,635,342,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/694094fb7f6a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ba582d441629.png,582,222,735,354,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/da1fe5114419.png,234,101,368,249,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a61ec2856ea1.png,460,238,567,418,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5c61750f5576.png,410,300,539,466,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bff9ffea639f.png,186,136,307,277,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e205526f7405.png,157,319,292,449,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2ac27ce316d5.png,452,59,686,478,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d908cf9ff11b.png,413,230,514,318,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c59a5aaf618a.png,463,142,594,376,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5fb9c3bc1e1c.png,193,160,270,257,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4ebd5e9e1235.png,49,56,321,374,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e75e554f49ac.png,88,198,178,355,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c4dfb1c766c1.png,448,251,651,450,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9e43da13bc66.png,617,231,740,431,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/301eaf1a1afe.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5c1e736c0af9.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c6c12ad89dec.png,62,309,156,412,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2da7581bab1e.png,467,159,604,387,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d69fcf5356a5.png,102,242,172,372,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ce289d7a37bb.png,183,223,303,330,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3615df9cfc90.png,470,220,672,382,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8cf4d311fd34.png,449,224,650,434,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/361df3525851.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/00b0891276a3.png,424,103,635,410,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8e2698e8ff11.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/81b8374e4e1c.png,421,239,588,482,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2529d7e89b5f.png,498,187,574,345,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ed521e774276.png,248,197,346,331,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/09c6d5c914e2.png,58,379,159,505,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bf35bf30d4e3.png,194,180,305,345,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d52129d63a30.png,107,135,269,334,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/63f7496b87dd.png,416,226,646,452,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/56d2c0ca14f8.png,196,48,385,319,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ed521e774276.png,437,185,539,318,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9e780cc1d9c5.png,482,339,605,474,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b0b93696c937.png,537,239,670,329,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ec6252fdc2a4.png,211,66,333,166,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9af9857fa513.png,404,408,619,536,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9ce5032a4dfd.png,285,139,366,263,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b4b931e5ad31.png,202,88,393,256,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6107ccde78c7.png,60,268,211,435,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/79d7fa3b6e57.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/76767c467873.png,88,166,252,492,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/47117960dc9b.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2accbf7e5287.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/dfff667be98d.png,224,62,440,312,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/dd8087abbcaf.png,566,171,673,364,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/33c026e51b02.png,582,330,719,424,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/be8e7e925b95.png,447,115,698,353,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b72a9cb51f29.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5dbf1f9ba0e9.png,459,246,647,369,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/32456961c278.png,118,152,312,501,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2090e218807b.png,408,233,545,407,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/eedd7a853545.png,71,209,252,400,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/187a15369d36.png,88,117,253,330,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d49812750c70.png,507,161,613,419,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bbaba561b590.png,375,188,661,518,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fe1bd72325f8.png,146,86,321,326,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2ce4a103d25d.png,535,276,660,475,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9b531d53c513.png,103,348,279,447,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/33c026e51b02.png,229,298,393,401,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ce2c42b51f24.png,111,329,292,443,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/52478e480a15.png,419,192,664,375,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c4257b7ce0cb.png,203,284,371,441,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ba582d441629.png,211,326,329,414,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7fac771f8c22.png,507,310,610,524,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/89561310a324.png,186,372,403,500,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d52a13a72a7d.png,36,124,321,477,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3eda96805867.png,68,95,213,402,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b5916a232a5c.png,532,200,683,362,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4f7d8597167f.png,110,256,231,361,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5c4864ceb9b2.png,10,171,166,445,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/04d1774c080a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/69aaaf77efdb.png,613,229,689,315,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/796c8b8701bf.png,35,69,323,439,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/71fee2b7ff69.png,243,117,331,196,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c6f65ce3990c.png,305,490,432,619,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/95bf5f4f6153.png,100,278,180,376,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7d1b84ddc4c3.png,157,133,228,208,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/58bf27b5a82d.png,459,82,628,312,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6bc60b22fc16.png,202,187,384,384,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f2044befe4f9.png,422,83,658,356,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cdf8ba91306a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bfd4c9f56059.png,474,58,777,457,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/42741418faa7.png,527,97,607,182,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/458d3c84b5d4.png,398,112,584,286,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c7e30d6294b7.png,443,258,560,411,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6adce4fc71b0.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/689db4ab5ab5.png,440,297,552,458,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2b77161dd937.png,453,109,578,364,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c3c012779959.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/62c6b3913fd0.png,165,163,236,370,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6df2d2ec8f31.png,536,157,668,382,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/58bf27b5a82d.png,220,106,341,309,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/da1fe5114419.png,477,65,656,232,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bc80e90e5c26.png,370,161,542,447,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ebe8a296c70d.png,578,150,770,394,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d01e8fd2c78d.png,534,271,653,379,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1fdd10b0a7c2.png,634,232,696,443,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/015ac3c7199d.png,498,23,782,467,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f5b4e8d1c058.png,426,70,692,368,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c04e00187179.png,184,64,319,283,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c5989c8376dd.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7d3112e63a37.png,128,52,304,287,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/746412688bc8.png,500,147,693,449,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/97639c8fa4ed.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/89c3baa32546.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1b611fae120d.png,205,167,317,236,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bd7e35836397.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/893fde8abd42.png,139,185,376,490,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fe7714da5092.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0ead88a9e781.png,3,339,171,462,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d60459d04826.png,138,106,330,317,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7087bcc1f1f6.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e64a3003925c.png,448,117,580,361,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b94286e2c027.png,482,181,623,404,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/af1b8b1a26ce.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/086f1ab39050.png,114,226,237,358,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a8307a24ea1d.png,94,68,334,356,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fa183ba97096.png,132,138,301,385,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7919006c6312.png,94,120,254,413,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b69f71f7c44f.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2a29437b06df.png,340,36,582,368,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e1e1cd77ddb5.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/41b1d441dcde.png,148,275,281,390,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f78663a47369.png,104,280,311,449,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd43f505780f.png,488,303,620,481,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/62c6b3913fd0.png,580,215,679,388,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a8307a24ea1d.png,362,47,644,378,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ee92643ee482.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/56d2c0ca14f8.png,560,149,698,351,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/61ca700c2908.png,550,162,702,345,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d510dfa4b13d.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ca6a4aa1dc10.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a422012bf2b1.png,473,166,589,480,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b043ad7772e6.png,189,144,389,370,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/89f79c0409a8.png,140,153,279,296,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/78dd642c634a.png,112,268,244,306,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/670d9645d4a4.png,57,349,198,496,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c04124bd92d8.png,128,81,317,392,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0f753ccffca5.png,78,6,320,309,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c2f682af3f6a.png,196,273,372,363,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e75e554f49ac.png,513,227,624,345,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d52129d63a30.png,514,121,645,287,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a49e3aad5fa2.png,246,186,420,437,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/27adbea6c748.png,56,49,328,391,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/306329dbbccc.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2eab3a031ef1.png,505,129,625,338,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6ad4a0268f1c.png,516,482,650,582,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2feb3afc8481.png,429,170,542,397,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/21905d725d81.png,520,283,643,405,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2b77161dd937.png,109,94,308,444,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6ad4a0268f1c.png,54,209,179,564,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f2c60dd904ce.png,94,291,231,396,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/13b6d8ab6647.png,101,136,255,448,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e31fc5148d42.png,157,381,341,482,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3f7e9b2c2135.png,9,0,268,310,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1e099040e6ff.png,399,323,500,417,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ad6739e57e8a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c12672d401e4.png,97,203,323,344,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6a1492a16c7b.png,494,272,655,427,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/70fbcd6dcc53.png,472,122,630,368,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ad4e1c8350fb.png,88,102,298,369,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ac979b5bce43.png,404,88,575,334,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/42fa8da416c9.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7e4956209825.png,490,54,689,219,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9e780cc1d9c5.png,139,201,233,283,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5918b66c0b79.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/68c53e6fabfa.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5db0fa005512.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6e1f00bb51ef.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b6b74c8a97e4.png,458,195,612,390,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d72eee691860.png,155,189,329,430,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8f5e2fe46848.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/345ff154ba07.png,615,168,728,392,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a48c16f1d0e5.png,128,114,429,498,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d7353d147f2c.png,419,154,597,445,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/09c6d5c914e2.png,497,250,585,437,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7183445f4d28.png,152,157,357,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0ac7cf154967.png,88,167,171,368,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0452c373f62b.png,412,271,613,415,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/19bc9c1473f3.png,103,136,270,410,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/62318cb53fbd.png,32,159,205,317,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1c5b53c5c442.png,551,213,716,367,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d176b5544d10.png,492,151,687,419,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/98721e6d2bde.png,210,240,306,299,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9ff1a3671dca.png,10,82,272,355,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c4257b7ce0cb.png,563,306,708,456,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5458c3cd03a3.png,455,291,606,440,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/90cc4d0bee82.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8004d82257a1.png,163,210,297,376,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cec07acf2c6e.png,489,67,725,398,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/98721e6d2bde.png,560,331,686,418,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8a80cfa63a23.png,562,244,667,409,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/959167b5226d.png,414,110,627,416,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0ead88a9e781.png,324,300,463,460,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/800fdabe8dae.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/06ee89a4efe9.png,135,96,278,290,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/460716e5a10f.png,51,55,321,324,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f664c8a1ec01.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd6ead44cfef.png,133,146,292,314,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/dc3934dc9f96.png,119,75,373,382,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3eda96805867.png,479,128,590,375,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/30fa38c1426f.png,455,235,541,372,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c16c290f1601.png,517,233,612,352,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fd86888c63e2.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c0219c31c527.png,127,117,192,187,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/227e68d2cb58.png,78,147,324,362,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5d252a9ba2f5.png,87,50,376,415,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ff7663694713.png,88,402,164,479,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ab1b0948a01f.png,113,112,297,440,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/608a6601635e.png,154,236,328,358,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e205526f7405.png,502,361,609,468,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1c5b53c5c442.png,164,263,313,361,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a470199a49db.png,90,67,267,214,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2a0446ef8ac3.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/346ea1e7619e.png,561,236,674,400,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/19bc9c1473f3.png,540,138,746,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/dfff667be98d.png,547,176,754,328,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/202ce5802ee2.png,496,63,583,238,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3b9431421ee9.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c7632a48f7e7.png,510,300,635,418,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/039c86552c5a.png,446,201,531,343,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fb1e24bf6698.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5fb9c3bc1e1c.png,128,331,301,449,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/888109901b29.png,107,129,336,338,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/386dbb567259.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d72eee691860.png,478,192,623,428,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/79d3329ab044.png,421,114,623,471,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b59d33bfed06.png,31,134,161,460,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/22cd8d57d2b1.png,492,168,640,421,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bb0435db5c6d.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9ce5032a4dfd.png,146,273,314,445,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8b69eacf9a7b.png,477,309,710,427,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f2c60dd904ce.png,541,88,676,427,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e20ad06f6647.png,130,238,285,358,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e0440b6cae4d.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/080f3ecd201b.png,111,75,208,211,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4ebb6fbe0720.png,567,299,749,480,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ed9b7e88b259.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2cdc7c6d320c.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8bb20ca76aad.png,139,180,179,215,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8866f708d338.png,392,10,714,371,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c697b7d09124.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3dc1c735c130.png,632,264,758,454,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/345ff154ba07.png,528,90,624,188,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/460716e5a10f.png,412,114,609,309,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a49e3aad5fa2.png,545,172,720,480,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1fa7cc9dd7d7.png,137,105,352,325,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/671c789ea79a.png,154,141,293,397,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7e4956209825.png,152,185,344,310,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3f7e9b2c2135.png,333,25,622,443,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8ac094a0ec17.png,448,112,636,375,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/23772ff0d697.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f00ddc79378d.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c8b2138cd267.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/09c6d5c914e2.png,402,245,472,344,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3f8515b00209.png,179,274,279,392,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2eb83e7d6a43.png,209,53,292,139,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1ae2c3d63f1c.png,533,196,633,331,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/73c3ef06731e.png,180,108,365,366,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/40ba7131aac7.png,156,206,318,392,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ba91ac5eeae1.png,573,210,661,364,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6f08b0295244.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/53c7f73707b7.png,515,228,669,406,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c01d581d6b2a.png,99,338,304,537,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9d45a7e2deda.png,446,204,660,450,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6ea732c63929.png,0,241,253,510,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/233c7f24c43e.png,82,75,209,273,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2090e218807b.png,52,168,240,302,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ab6eb36dcfe8.png,139,290,228,378,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/39acf134b0a1.png,139,152,326,356,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2eb83e7d6a43.png,132,258,237,360,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0a677ac5768f.png,413,139,609,616,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6163d55460c2.png,468,111,707,467,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/de023e0fc394.png,478,41,662,342,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/beba206be689.png,403,287,568,461,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4cf49226c69f.png,182,42,415,334,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9b07ebb8d30c.png,112,308,313,429,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9ac13db7cb74.png,475,208,584,422,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ce791c49771d.png,200,165,327,269,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1bd1aa3ea90e.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b4bfe6d08e3a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2a1fbe855dee.png,140,86,306,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/814c444eca84.png,481,174,738,438,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/42741418faa7.png,141,19,267,255,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/05c5bab5cf9d.png,432,145,605,374,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/394536fc0dca.png,377,286,479,446,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/804533e070aa.png,51,346,200,496,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/81493e510606.png,49,154,143,422,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d4174c9de2e3.png,21,134,207,436,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/96ea7ce0b42b.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8f2960c590a4.png,379,76,560,244,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/48754b579b77.png,171,115,336,366,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/338586b4f0f0.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cfd34768503a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/32456961c278.png,439,162,668,437,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/75aed394a4e4.png,442,167,611,392,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4b89119a5a67.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b4b931e5ad31.png,495,91,695,346,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3d6c5fa4b95e.png,141,185,336,397,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/70e85faa319e.png,464,112,711,430,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c16c290f1601.png,134,327,212,426,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4cf49226c69f.png,558,100,712,335,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/dd8087abbcaf.png,166,156,305,313,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/71fee2b7ff69.png,204,278,375,402,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5f8ec78b79c4.png,160,149,252,294,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b8e74edf332d.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/346ea1e7619e.png,141,90,386,447,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f43913da5bde.png,173,19,376,273,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3503e6325419.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1e82f179e878.png,403,88,634,368,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/124e75eb6622.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6aadfed4ee85.png,192,63,262,226,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/39acf134b0a1.png,417,172,666,341,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/05c5bab5cf9d.png,195,125,335,367,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/93bba7a74049.png,233,273,270,308,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/933f80e2c741.png,536,137,764,520,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0060e4f54aa8.png,112,194,224,391,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3e17d804f89c.png,454,335,512,399,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/35d4359edb51.png,165,152,271,255,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d67e15fad409.png,106,149,338,387,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3d6c5fa4b95e.png,428,237,651,392,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f30c28a6a8a7.png,53,333,148,384,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8004d82257a1.png,467,240,611,429,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0b49d75e3b51.png,469,71,636,311,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c80d2df370e8.png,541,294,694,420,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/87236e3ea6b3.png,144,109,367,458,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4368a4b5ad6d.png,123,294,274,406,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b9662686a5ae.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6b7f9efbc371.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/080f3ecd201b.png,453,51,595,206,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/566228fcdc9e.png,577,226,640,346,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0a677ac5768f.png,51,366,301,585,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d653aa376299.png,361,328,514,505,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4c3acc13335c.png,453,47,695,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/763b2412292e.png,123,49,392,343,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7d3112e63a37.png,431,79,589,282,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d19950710463.png,421,239,593,377,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/86484cc4db08.png,349,325,557,506,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ce7bbc8281ea.png,67,281,317,494,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/07fe0210c4d2.png,210,300,271,355,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/383b66ef97c4.png,147,174,341,375,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4c7789795282.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3781073f1bcd.png,152,243,336,461,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e97c90dad798.png,435,93,676,518,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0f353517d271.png,115,277,330,370,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/734261399d24.png,332,343,483,552,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0b490c90deec.png,122,37,304,293,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8b0c001206c1.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/89f79c0409a8.png,399,140,536,315,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5a462d6eb606.png,175,167,384,285,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/48754b579b77.png,487,131,664,344,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/59eff22a4a77.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7552b4fc4bb8.png,491,247,632,451,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6a1492a16c7b.png,110,174,266,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e7e96a713fc6.png,130,0,371,355,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1002a04f3cde.png,446,233,676,397,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1cd91e237ea7.png,644,156,779,324,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9b531d53c513.png,436,221,595,381,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/99019b7af0ab.png,434,163,555,459,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c6f65ce3990c.png,28,454,154,600,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0060e4f54aa8.png,604,216,742,411,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0b490c90deec.png,400,41,640,257,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c8ff18a78550.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c04124bd92d8.png,477,177,632,404,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6163d55460c2.png,20,21,205,433,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/592f4c2d20f7.png,109,26,338,387,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/92dd4fbfa962.png,499,89,709,409,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ff7663694713.png,455,412,529,478,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a718afdbfcd0.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/525f4a45ab5d.png,623,209,725,437,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b77d1450dcb2.png,599,242,688,329,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/689db4ab5ab5.png,130,363,244,480,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ed2e387ef4fa.png,58,366,193,523,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/75e68ff861bb.png,631,94,777,240,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/74639dcd7a0f.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7f5bf4d22256.png,393,121,707,516,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/81493e510606.png,452,160,568,295,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/aa301afc5162.png,113,181,207,400,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/48a2d8eba182.png,161,59,316,340,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c80d2df370e8.png,202,279,328,414,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9d45a7e2deda.png,116,254,318,455,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8a80cfa63a23.png,174,225,306,419,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8ec412c03bbb.png,210,235,272,329,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/28d1dc56e056.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fa9729ef16b6.png,534,167,751,380,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ec6252fdc2a4.png,409,84,540,188,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8fcdd69753ab.png,94,68,314,413,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a422012bf2b1.png,130,309,202,493,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3df2c9d30cdf.png,93,304,217,499,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/3784d66cc685.png,477,220,597,357,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/20399ed905d4.png,339,35,463,236,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/89561310a324.png,622,228,775,448,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1b611fae120d.png,479,131,634,253,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1cd91e237ea7.png,241,141,372,255,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/488bee5db2c7.png,163,54,349,285,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8cf4d311fd34.png,110,234,291,419,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/808aa095bda2.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bf35bf30d4e3.png,579,119,660,239,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d66def7ad874.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b94286e2c027.png,86,150,297,389,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/20399ed905d4.png,118,60,272,227,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/47d014f9055a.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/981b09433923.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e563f54f421c.png,495,255,695,400,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7183445f4d28.png,461,143,709,458,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ca7a6f3f453c.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/0cf130895909.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6483231bcfbb.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/46bf2b62ad40.png,18,83,198,378,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b14aa9495194.png,81,94,360,417,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/1ec5a611f850.png,176,252,306,359,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e5ffb49e8255.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c63f93b9e947.png,455,59,677,356,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9ff1a3671dca.png,336,88,555,394,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/735e6a12b1b5.png,363,299,615,513,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9e43da13bc66.png,120,235,242,388,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f33c3310cbaa.png,143,238,342,362,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b8b7df1b6e04.png,585,340,700,447,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ed728788cc3d.png,553,94,682,306,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ad4e1c8350fb.png,368,126,561,396,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/74ef938282be.png,137,392,296,514,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/65f956401813.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ea6cb1120c3d.png,524,144,715,456,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/fa5f8d9acc5e.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/53989cc7039c.png,280,317,359,404,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/4f7d8597167f.png,424,263,525,406,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/da4b622d58bc.png,199,309,302,416,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2eab3a031ef1.png,149,189,247,298,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7306aee0cd78.png,544,260,656,431,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8293e88f28d6.png,506,309,664,386,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bb484ab7a8c6.png,116,123,237,311,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5896e41fcc13.png,548,83,775,428,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c4aa88e3744d.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f78663a47369.png,541,194,745,439,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/536be3676c85.png,186,170,292,429,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d4174c9de2e3.png,365,143,661,519,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/47fc0153c848.png,436,128,593,268,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/48a2d8eba182.png,454,149,602,361,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/6bc60b22fc16.png,549,226,664,425,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7bdc24bf4984.png,424,259,566,377,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ad3c74405f70.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7306aee0cd78.png,144,361,262,445,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/383b66ef97c4.png,449,241,622,394,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/7e35c1c82ff3.png,474,261,670,398,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c1b6543eea29.png,491,118,589,208,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/c2f682af3f6a.png,552,286,728,391,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/ebcdd0f1c8a1.png,490,249,620,360,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/67995d63d73a.png,367,107,687,358,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d2909cb9f49e.png,497,105,665,299,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a0d21f9177d6.png,133,118,293,414,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/f2044befe4f9.png,112,54,314,346,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/2f1ce67c8d80.png,527,123,635,270,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/8ece05be5b24.png,502,340,656,423,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e57410a08780.png,0,0,640,640,Negative for Pneumonia
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/95a90280bfeb.png,81,220,222,402,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9c18a904fbed.png,421,131,602,322,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/98721e6d2bde.png,176,135,316,230,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d45dcc66aade.png,163,264,323,377,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/cd04f98c2f2b.png,157,270,251,404,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5dae029b62f0.png,389,112,466,196,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/9af9857fa513.png,47,392,260,506,Atypical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/a2a5696465d1.png,451,368,752,524,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/bd4d8e29de6e.png,579,143,643,227,Indeterminate Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/d52a13a72a7d.png,399,164,675,498,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/5fb9c3bc1e1c.png,531,348,631,415,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/b6b74c8a97e4.png,65,216,294,413,Typical Appearance
+/home/jair/COVID/NIHX14/datasets/yolo/640/images/test/e350c6a1acbd.png,144,206,406,406,Typical Appearance
