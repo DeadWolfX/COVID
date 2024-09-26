@@ -66,3 +66,6 @@ First, download the Jupyter Notebook related to the desired analysis, available 
 Second, for each analysis, the Notebook requires the relevant information for each dataset, which is available in the corresponding dataset folder in this repository <a href="https://github.com/JairMathAI/COVID/tree/main/Datos">here</a>.
 
 To run the respective Notebook for each dataset, the following information file is needed:
+
+<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_RSNA.ipynb">Exploratorio_RSNA.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/RSNA/Todo_info.csv">Todo_info.csv</a> file.
+<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_Xray14.ipynb">Exploratorio_Xray14.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/Xray14/Todas.csv">Todas.csv</a> and <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/Xray14/bboxes.csv">bboxes.csv</a>files.
