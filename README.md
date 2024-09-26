@@ -1,7 +1,7 @@
 <h2>Project description</h2>
 <h3>Here are the codes used in the development of the master's thesis titled "Deep Learning for the Identification and Localization of COVID-19 Induced Damage in Chest X-Rays." The folder structure in this main folder is as follows:</h3>
 <ul>
-    <li><b>Annotations:</b></li> Folder containing the various annotations used to train deep learning models. For each dataset, there is a folder containing annotations exclusively for RetinaNet, as the annotations for Y.O.L.O are generated from the files in the Data folder and the codes in the Codes_Data folder, both present in this repository. Each compressed file contains a text file with the description of the corresponding annotations.
+    <li><b>Annotations:</b></li> Folder containing the various annotations used to train deep learning models. For each dataset, there is a folder containing annotations exclusively for RetinaNet, as the annotations for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> are generated from the files in the Data folder and the codes in the Codes_Data folder, both present in this repository. Each compressed file contains a text file with the description of the corresponding annotations.
     <li><b>Codes_Data:</b></li> Folder containing three Jupyter Lab notebooks, each with codes and functions used to generate the annotations contained in the Annotations folder and data processing for each set.
     <li><b>Data:</b></li> Contains text files for each dataset used, summarizing relevant information about each dataset in a structured manner.
     <li><b>Exploratory:</b></li> Contains three Jupyter Lab notebooks, one for each dataset used. These notebooks contain the codes and functions used to perform the reported exploratory analyses.
