@@ -1,6 +1,6 @@
 <h2>Note</h2>
 
 <ul>
- <li><b>info_original:</li></b> Contiene la informacion resumida y original del conjunto SIIM
- <li><b>info_corrected:</li></b> Contiene la información  con las anotociones corregidas, las que encierran regiones fuera de la imagen se limitan a los bordes de la imagen y las imagenes de negativos contienen las anotaciones de tipo 1 (recuadro al rededor de la imagen).
+ <li><b>info_original:</li></b> Contains the summarized and original information of the SIIM set
+ <li><b>info_corrected:</li></b> Contains the information with the corrected annotations, those that enclose regions outside the image are limited to the edges of the image and the negative images contain type 1 annotations (box around the image).
 </ul>
