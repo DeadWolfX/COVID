@@ -74,4 +74,4 @@ To run the respective Notebook for each dataset, the following information file 
 
 <b>Importan Note:</b><br>
 
-sldkjshskjdlsaklñdas
+For the correct execution of the notebooks, it is required that the paths to the directories containing the images are updated in the current Notebook and that the images are in the correct format.
