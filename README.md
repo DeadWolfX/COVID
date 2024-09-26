@@ -10,7 +10,7 @@
     <li><b>Modified_Codes:</b></li>Contains two folders, one for each model:
     <ul>
         <li><b>For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> </b></li> the code with modifications in the attention module is included, as well as the Jupyter Lab notebook used in the training, which includes modifications for generating confusion matrices.
-        <li><b>For RetinaNet</b></li> the following codes are included:
+        <li><b>For <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a></b></li> the following codes are included:
         <ul>
             <li><b>AumentoSIIM.ipynb:</b></li> Code to realize data augmentation for RetinaNet.
             <li><b>ConfuseMatrix.py:</b></li> Code developed for generating confusion matrices for RetinaNet.
