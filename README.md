@@ -75,3 +75,8 @@ To run the respective Notebook for each dataset, the following information file 
 <b>Importan Note:</b><br>
 
 For the correct execution of the notebooks, it is required that the paths to the directories containing the images are updated in the current Notebook and that the images are in the correct format.
+
+<h3>Manipulating the raw images of the datasets</h3>
+
+To run the Notebooks for the exploratory analysis and model training, we need to transform the images of each dataset appropriately, ensuring they meet the required format and size for example.
+
