@@ -85,3 +85,18 @@ You can use the codes in the <a href="https://github.com/JairMathAI/COVID/tree/m
 
 The <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones:</a> folder contains the necessary annotations for the direct execution of <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a>, as explained in the respective GitHub project. For training with <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>., a YAML file is required, as detailed in the corresponding GitHub documentation. The annotations for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>. can be derived from the provided <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a> annotations using the codes available in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos</a>  folder. Alternatively, we can start with the data summary information in the <a href="https://github.com/JairMathAI/COVID/tree/main/Datos">Datos:</a> folder and format the annotations as needed using a custom script, taking into account the annotation format required for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>.
 
+<h3>Training Models</h3>
+
+With the corresponding images and annotations in order, we can follow the instructions in the respective model repository to train the model:
+
+<ul>
+    <li><b><a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a></b></li> 
+    <li><b><a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a></b></li>
+</ul>
+
+<h3>Replication of results</h3>
+
+In order to replicate the training results reported in the master thesis and given in the Drive Folder:
+
+For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>., we can utilize the <a href="https://github.com/JairMathAI/COVID/blob/main/Codigos_Modificados/YOLO/EntrenaYOLO.ipynb">EntrenaYOLO.ipynb</a> notebook to train the model and generate the corresponding confusion matrices. Please note that some paths need to be updated to run the generation code. In the respective training <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>, a train.txt file is provided, which contains the specific hyperparameters used for each training session. Additionally, there is a .pth file corresponding to the generated model weights, allowing us to acces the models without training from scratch.
+
