@@ -1,5 +1,6 @@
-Anotaciones csv para RetinaNet donde se tiene recuadros delimitadores en formato [x1,y1,x2,y2] donde (x1,y1) son las coordenadas de la esquina superior izquierda del recuadro y (x2,y2) son las coordenadas de la esquina inferior derecha, cada csv indica a que conjunto pertenecen las anotaciones (entrenamiento,validacion o prueba)
+<h2>Folder Content</h2>
+Annotations are provided in CSV format for RetinaNet, including bounding boxes in the format $\[x_1, y_1, x_2, y_2\]$. Here, $\(x_1, y_1\)$ represents the coordinates of the upper left corner of the box, and $(x_2, y_2)$ represents the coordinates of the lower right corner. Each CSV file indicates which set the annotations belong to (training, validation, or testing).<br>
 
-Para las imagenes con opacidades el recuadro delimitador encierra la opacidad.
+For images with opacities, the bounding box encloses the opacity region.<br>
 
-Las imagenes sin presencia de opacidad cuentan con recuadro delimitador que rodea toda la imagen.
+Images without opacities have a bounding box that surrounds the entire image.
