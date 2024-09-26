@@ -104,5 +104,9 @@ We can utilize the <a href="https://github.com/JairMathAI/COVID/blob/main/Codigo
 
 To replicate the results with the modified architecture, we need to follow the instructions provided in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Modificados/YOLO">Codigos_Modificados</a> folder related to <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>.
 
+<h4>For <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a></h4>
+
+We can use the respective annotation file with the updated image paths provided in the <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones</a> folder. By following the instructions in the original <a href="https://github.com/yhenon/pytorch-retinanet">GitHub</a> repository, we can effectively implement the model. The <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a> also contains the weights for each trained model, and the corresponding hyperparameters used during training are detailed in the master's thesis (a link will be included once the work is officially published).
+
 
 
