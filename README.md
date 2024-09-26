@@ -9,7 +9,7 @@
     <li><b>Trainings:</b></li> The weights of the trained models described in the thesis, as well as the complete training information and graphics, are available in the following <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>
     <li><b>Modified_Codes:</b></li>Contains two folders, one for each model:
     <ul>
-        <li><b>For Y.O.L.O</b></li> the code with modifications in the attention module is included, as well as the Jupyter Lab notebook used in the training, which includes modifications for generating confusion matrices.
+        <li><b>For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> </b></li> the code with modifications in the attention module is included, as well as the Jupyter Lab notebook used in the training, which includes modifications for generating confusion matrices.
         <li><b>For RetinaNet</b></li> the following codes are included:
         <ul>
             <li><b>AumentoSIIM.ipynb:</b></li> Code to realize data augmentation for RetinaNet.
