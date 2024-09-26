@@ -67,5 +67,7 @@ Second, for each analysis, the Notebook requires the relevant information for ea
 
 To run the respective Notebook for each dataset, the following information file is needed:
 
-<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_RSNA.ipynb">Exploratorio_RSNA.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/RSNA/Todo_info.csv">Todo_info.csv</a> file.
-<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_Xray14.ipynb">Exploratorio_Xray14.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/Xray14/Todas.csv">Todas.csv</a> and <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/Xray14/bboxes.csv">bboxes.csv</a>files.
+<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_RSNA.ipynb">Exploratorio_RSNA.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/RSNA/Todo_info.csv">Todo_info.csv</a> file.<br>
+<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_Xray14.ipynb">Exploratorio_Xray14.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/Xray14/Todas.csv">Todas.csv</a> and <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/Xray14/bboxes.csv">bboxes.csv</a>files.<br>
+
+<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_SIIM.ipynb">Exploratorio_SIIM.ipynb</a> requires the path to the original train_image_level.csv and train_study_level.csv files provided with the origininal dataset.<br>
