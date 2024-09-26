@@ -23,3 +23,11 @@
 
 <h2>Project Replication</h2>
 <h3>In order to replicate this project it is recommended to follow the following steps:</h3>
+
+First, we need to obtain the necessary image datasets for the project.
+
+<ul>
+    <li><b><a href="https://www.kaggle.com/datasets/nih-chest-xrays/data">Chest X-rays14</a></b></li> 
+    <li><b><a href="https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data">RSNA Pneumonia</a></b></li>
+    <li><b><a href="https://www.kaggle.com/c/siim-covid19-detection/data">SIIM-FISABIO-RSNA COVID19</a></b></li>
+<ul>
