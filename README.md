@@ -78,5 +78,5 @@ For the correct execution of the notebooks, it is required that the paths to the
 
 <h3>Manipulating the raw images of the datasets</h3>
 
-To run the Notebooks for the exploratory analysis and model training, we need to transform the images of each dataset appropriately, ensuring they meet the required format and size for example.
+To run the notebooks for the exploratory analysis and model training, we need to transform the images of each dataset appropriately, ensuring they meet the required format and size, and generate the provided annotation files, for example.
 
