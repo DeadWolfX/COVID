@@ -96,7 +96,11 @@ With the corresponding images and annotations in order, we can follow the instru
 
 <h3>Replication of results</h3>
 
-In order to replicate the training results reported in the master thesis and given in the Drive Folder:
+In order to replicate the training results reported in the master thesis and given in the <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>:
 
 For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>., we can utilize the <a href="https://github.com/JairMathAI/COVID/blob/main/Codigos_Modificados/YOLO/EntrenaYOLO.ipynb">EntrenaYOLO.ipynb</a> notebook to train the model and generate the corresponding confusion matrices. Please note that some paths need to be updated to run the generation code. In the respective training <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>, a train.txt file is provided, which contains the specific hyperparameters used for each training session. Additionally, there is a .pth file corresponding to the generated model weights, allowing us to acces the models without training from scratch.
+
+To replicate the results with the modified architecture, we need to follow the instructions provided in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Modificados/YOLO">Codigos_Modificados</a> folder related to <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>.
+
+
 
