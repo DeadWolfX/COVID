@@ -19,4 +19,7 @@
             <li><b>visualize_single_image.py:</b></li> Modified code from visualize_single_image.py available on the RetinaNet model's GitHub, which underwent corrections as it had faults when executed.
         </ul>
     </ul>  
-</ul>  
+</ul> 
+
+<h2>Project Replication</h2>
+<h3>In order to replicate this project it is recommended to follow the following steps:</h3>
