@@ -84,10 +84,20 @@ To run the notebooks for the exploratory analysis and model training, we need to
 You can use the codes in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos</a> folder to adjust the images to the correct size and format. Alternatively, you can run your own script that resizes the images and saves them in PNG format.
 
 The <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones:</a> folder contains the necessary annotations for the direct execution of <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a>, as explained in the respective GitHub project. For training with <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>., a YAML file is required, as detailed in the corresponding GitHub documentation. The annotations for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>. can be derived from the provided <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a> annotations using the codes available in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos</a>  folder. Alternatively, we can start with the data summary information in the <a href="https://github.com/JairMathAI/COVID/tree/main/Datos">Datos:</a> folder and format the annotations as needed using a custom script, taking into account the next coments required for train <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a>:
-In this example:
-- `📂` represents a folder.
-- `📄` represents a file.
-- The vertical bar (`│`), `├──`, and `└──` help to visually represent the folder structure.
+
+The YAML file is the working datased indicator for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> and it need the folowing structure:
+
+path: root/path/to/dataset/folder
+train: images/train
+val: images/validation
+test: images/test
+
+names:
+
+  0: Typical Appearance
+  1: Negative for Pneumonia
+  2: Indeterminate Appearance
+  3: Atypical Appearance
 
 <h3>Training Models</h3>
 
