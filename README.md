@@ -101,19 +101,6 @@ names:<br>
 
 In the other hand the structure that the dataset need to have and that we need to construct udsing the respective <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones</a> files is:
 
-<h3>Training Models</h3>
-
-With the corresponding images and annotations in order, we can follow the instructions in the respective model repository to train the model:
-
-<ul>
-    <li><b><a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a></b></li> 
-    <li><b><a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a></b></li>
-</ul>
-
-<h3>Replication of results</h3>
-
-In order to replicate the training results reported in the master thesis and given in the <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>:<br>
-
 📂 Dataset  
 ├── 📂 images  
 │   ├── 📂 train  
@@ -144,7 +131,7 @@ In order to replicate the training results reported in the master thesis and giv
 
 Each row (one per boundingbox) in the .txt label file need to follow the next structure:<br>
 
-class<int> x_c<float> y_c<float>  w_n<float> h_n<float><br><br>
+class(int)  x_c(float)  y_c(float)   w_n(float)  h_n(float)<br><br>
 
 where:<br>
 x_c: is the x coordinate of the center of the bounding box and it's normalized with respect to the the image<br>
@@ -156,14 +143,28 @@ to obtain this format is important recall that the  <a href="https://github.com/
 
 Each row (one per boundingbox) in the .csv label file follow the next structure:<br>
 
-image_path<str> x_1<int> y_1<int>  x_2<int> y_2<int>  class<strng> <br><br>
+image_path(str)  x_1(int)  y_1(int)   x_2(int)  y_2(int)   class(string) <br><br>
 
 where:<br>
 image_path: is the path to the images corresponding to the annotation.
-x_1: is the x coordinate of upper left corner of the bounding box<br>
-w_n: is the width of the bounding box normalized with respect to the width of the image<br>
-h_n: is the height of the bounding box normalized with respect to the height of the image<br><br>
+x_1: is the x coordinate of the upper left corner of the bounding box<br>
+y_2: is the y coordinate of the upper left corner of the bounding box<br>
+x_2: is the x coordinate of the lower right corner of the bounding box<br>
+y_2: is the y coordinate of the lower right corner of the bounding box<br>
 
+
+<h3>Training Models</h3>
+
+With the corresponding images and annotations in order, we can follow the instructions in the respective model repository to train the model:
+
+<ul>
+    <li><b><a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a></b></li> 
+    <li><b><a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a></b></li>
+</ul>
+
+<h3>Replication of results</h3>
+
+In order to replicate the training results reported in the master thesis and given in the <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>:<br>
 
 <h4>For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O:</a></h4>
 
