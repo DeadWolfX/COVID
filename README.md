@@ -140,7 +140,29 @@ In order to replicate the training results reported in the master thesis and giv
 │   ├── 📂 validation  
 │   │   ├── 📄 v_1.txt  
 │   │   ├── ...  
-│   │   ├── 📄 v_n.txt  
+│   │   ├── 📄 v_n.txt
+
+Each row (one per boundingbox) in the .txt label file need to follow the next structure:<br>
+
+class<int> x_c<float> y_c<float>  w_n<float> h_n<float><br><br>
+
+where:<br>
+x_c: is the x coordinate of the center of the bounding box and it's normalized with respect to the the image<br>
+y_c: is the y coordinate of the center of the bounding box and it's normalized with respect to the the image<br>
+w_n: is the width of the bounding box normalized with respect to the width of the image<br>
+h_n: is the height of the bounding box normalized with respect to the height of the image<br><br>
+
+to obtain this format is important recall that the  <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones</a> files has the format needed for <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a>:<br><br>
+
+Each row (one per boundingbox) in the .csv label file follow the next structure:<br>
+
+image_path<str> x_1<int> y_1<int>  x_2<int> y_2<int>  class<strng> <br><br>
+
+where:<br>
+image_path: is the path to the images corresponding to the annotation.
+x_1: is the x coordinate of upper left corner of the bounding box<br>
+w_n: is the width of the bounding box normalized with respect to the width of the image<br>
+h_n: is the height of the bounding box normalized with respect to the height of the image<br><br>
 
 
 <h4>For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O:</a></h4>
