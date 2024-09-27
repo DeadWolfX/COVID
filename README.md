@@ -97,7 +97,9 @@ names:<br>
   0: Typical Appearance<br>
   1: Negative for Pneumonia<br>
   2: Indeterminate Appearance<br>
-  3: Atypical Appearance<br>
+  3: Atypical Appearance<br><br>
+
+In the other hand the structure that the dataset need to have and that we need to construct udsing the respective <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones</a> files is:
 
 <h3>Training Models</h3>
 
@@ -110,7 +112,9 @@ With the corresponding images and annotations in order, we can follow the instru
 
 <h3>Replication of results</h3>
 
-In order to replicate the training results reported in the master thesis and given in the <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>:
+In order to replicate the training results reported in the master thesis and given in the <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>:<br>
+
+.klzx.jklcxklclxzc
 
 <h4>For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O:</a></h4>
 
