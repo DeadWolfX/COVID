@@ -87,17 +87,17 @@ The <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotacio
 
 The YAML file is the working datased indicator for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> and it need the folowing structure:
 
-path: root/path/to/dataset/folder
-train: images/train
-val: images/validation
-test: images/test
+<b>path:</b> root/path/to/dataset/folder<br>
+<b>train:</b> images/train<br>
+<b>val:</b> images/validation<br>
+<b>test:</b> images/test<br><br>
 
-names:
+names:<br>
 
-  0: Typical Appearance
-  1: Negative for Pneumonia
-  2: Indeterminate Appearance
-  3: Atypical Appearance
+  0: Typical Appearance<br>
+  1: Negative for Pneumonia<br>
+  2: Indeterminate Appearance<br>
+  3: Atypical Appearance<br>
 
 <h3>Training Models</h3>
 
