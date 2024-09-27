@@ -114,7 +114,45 @@ With the corresponding images and annotations in order, we can follow the instru
 
 In order to replicate the training results reported in the master thesis and given in the <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>:<br>
 
-.klzx.jklcxklclxzc
+📂 Dataset
+├── 📂 images
+│ ├── 📂 train
+│ │ ├── 📄 tr_1.png
+| .
+| .
+| .
+| | ├── 📄 tr_n.png
+│ ├── 📂 test
+│ │ ├── 📄 ts_1.png
+| .
+| .
+| .
+| | ├── 📄 ts_n.png
+│ ├── 📂 validation
+│ │ ├── 📄 v_1.png
+| .
+| .
+| .
+| | ├── 📄 v_n.png
+├── 📂 labels
+│ ├── 📂 train
+│ │ ├── 📄 tr_1.txt
+| .
+| .
+| .
+| | ├── 📄 tr_n.txt
+│ ├── 📂 test
+│ │ ├── 📄 ts_1.txt
+| .
+| .
+| .
+| | ├── 📄 ts_n.txt
+│ ├── 📂 validation
+│ │ ├── 📄 v_1.txt
+| .
+| .
+| .
+| | ├── 📄 v_n.txt
 
 <h4>For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O:</a></h4>
 
