@@ -146,7 +146,7 @@ Each row (one per boundingbox) in the .csv label file follow the next structure:
 image_path(str)  x_1(int)  y_1(int)   x_2(int)  y_2(int)   class(string) <br><br>
 
 where:<br>
-image_path: is the path to the images corresponding to the annotation.
+image_path: is the path to the images corresponding to the annotation.<br>
 x_1: is the x coordinate of the upper left corner of the bounding box<br>
 y_2: is the y coordinate of the upper left corner of the bounding box<br>
 x_2: is the x coordinate of the lower right corner of the bounding box<br>
