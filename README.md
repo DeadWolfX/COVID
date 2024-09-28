@@ -1,22 +1,22 @@
 <h2>Project description</h2>
 <h3>Here are the codes used in the development of the master's thesis titled "Deep Learning for the Identification and Localization of COVID-19 Induced Damage in Chest X-Rays." The folder structure in this main folder is as follows:</h3>
 <ul>
-    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones:</a></b></li> Folder containing the various annotations used to train deep learning models. For each dataset, there is a folder containing annotations exclusively for <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a>, as the annotations for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> are generated from the files in the <a href="https://github.com/JairMathAI/COVID/tree/main/Datos">Datos</a> folder and the codes in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos:</a> folder, both present in this repository. 
-    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos:</a></b></li> Folder containing three Jupyter Lab notebooks, each with codes and functions used to generate the annotations contained in the Annotations folder and data processing for each set.
-    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Datos">Datos:</a></b></li> Contains text files for each dataset used, summarizing relevant information about each dataset in a structured manner.
-    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Exploratorios">Exploratorios:</a></b></li> Contains three Jupyter Lab notebooks, one for each dataset used. These notebooks contain the codes and functions used to perform the reported exploratory analyses.
-    <li><b><a href="https://github.com/JairMathAI/COVID/blob/main/env.yml">env.yml:</a></b></li> Anaconda virtual environment configuration containing all the necessary libraries for exploratory analysis, visualization, data preprocessing, and label manipulation.
+    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones📂 :</a></b></li> Folder containing the various annotations used to train deep learning models. For each dataset, there is a folder containing annotations exclusively for <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a>, as the annotations for <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> are generated from the files in the <a href="https://github.com/JairMathAI/COVID/tree/main/Datos">Datos</a> folder and the codes in the <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos:</a> folder, both present in this repository. 
+    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Datos">Codigos_Datos📂 :</a></b></li> Folder containing three Jupyter Lab notebooks, each with codes and functions used to generate the annotations contained in the Annotations folder and data processing for each set.
+    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Datos">Datos📂 :</a></b></li> Contains text files for each dataset used, summarizing relevant information about each dataset in a structured manner.
+    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Exploratorios">Exploratorios📂 :</a></b></li> Contains three Jupyter Lab notebooks, one for each dataset used. These notebooks contain the codes and functions used to perform the reported exploratory analyses.
+    <li><b><a href="https://github.com/JairMathAI/COVID/blob/main/env.yml">env.yml📄:</a></b></li> Anaconda virtual environment configuration containing all the necessary libraries for exploratory analysis, visualization, data preprocessing, and label manipulation.
     <li><b><a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Trainings:</a></b></li> The weights of the trained models described in the thesis, as well as the complete training information and graphics, are available in the following <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>
-    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Modificados">Codigos_Modificados:</a></b></li>Contains two folders, one for each model:
+    <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Modificados">Codigos_Modificados📂 :</a></b></li>Contains two folders, one for each model:
     <ul>
         <li><b>For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> </b></li> the code with modifications in the attention module is included, as well as the Jupyter Lab notebook used in the training, which includes modifications for generating confusion matrices.
         <li><b>For <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a></b></li> the following codes are included:
         <ul>
-            <li><b>AumentoSIIM.ipynb:</b></li> Code to realize data augmentation for RetinaNet.
-            <li><b>ConfuseMatrix.py:</b></li> Code developed for generating confusion matrices for RetinaNet.
-            <li><b>trainMoidif.py:</b></li> odified code from train.py available on the <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet model's GitHub</a>, implementing patience usage, saving the model with the best performance, generating total loss and mAP graphs, and knowledge transfer.
-            <li><b>modelModif.py: </b></li> Modified code from model.py available on the <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet model's GitHub</a>, implementing a draft of the unused attention module, but added in case it is wanted to explore and/or improve.
-            <li><b>visualize_single_image.py:</b></li> Modified code from visualize_single_image.py available on the RetinaNet model's GitHub, which underwent corrections as it had faults when executed.
+            <li><b>AumentoSIIM.ipynb📄:</b></li> Code to realize data augmentation for RetinaNet.
+            <li><b>ConfuseMatrix.py📄:</b></li> Code developed for generating confusion matrices for RetinaNet.
+            <li><b>trainMoidif.py📄:</b></li> odified code from train.py available on the <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet model's GitHub</a>, implementing patience usage, saving the model with the best performance, generating total loss and mAP graphs, and knowledge transfer.
+            <li><b>modelModif.py📄: </b></li> Modified code from model.py available on the <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet model's GitHub</a>, implementing a draft of the unused attention module, but added in case it is wanted to explore and/or improve.
+            <li><b>visualize_single_image.py📄:</b></li> Modified code from visualize_single_image.py available on the RetinaNet model's GitHub, which underwent corrections as it had faults when executed.
         </ul>
     </ul>  
 </ul> 
@@ -67,7 +67,7 @@ Second, for each analysis, the Notebook requires the relevant information for ea
 
 To run the respective Notebook for each dataset, the following information file is needed:
 
-<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_RSNA.ipynb">Exploratorio_RSNA.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/RSNA/Todo_info.csv">Todo_info.csv</a> file.<br><br>
+<a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_RSNA.ipynb">Exploratorio_RSNA.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/RSNA/Todo_info.csv">Todo_info.csv</a> file.<br><br>&nbsp;&nbsp;
 <a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_Xray14.ipynb">Exploratorio_Xray14.ipynb</a> requires the path to the <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/Xray14/Todas.csv">Todas.csv</a> and <a href="https://github.com/JairMathAI/COVID/blob/main/Datos/Xray14/bboxes.csv">bboxes.csv</a> files.<br>
 
 <a href="https://github.com/JairMathAI/COVID/blob/main/Exploratorios/Exploratorio_SIIM.ipynb">Exploratorio_SIIM.ipynb</a> requires the path to the original train_image_level.csv and train_study_level.csv files provided with the origininal dataset.<br>
@@ -133,7 +133,7 @@ Each row (one per boundingbox) in the .txt label file need to follow the next st
 
 class(int)&nbsp;&nbsp;  x_c(float)&nbsp;&nbsp;  y_c(float)&nbsp;&nbsp;   w_n(float) &nbsp;&nbsp; h_n(float)<br><br>
 
-where:<br>
+where:<br><br>
 x_c: is the x coordinate of the center of the bounding box and it's normalized with respect to the the image<br>
 y_c: is the y coordinate of the center of the bounding box and it's normalized with respect to the the image<br>
 w_n: is the width of the bounding box normalized with respect to the width of the image<br>
@@ -145,12 +145,12 @@ Each row (one per boundingbox) in the .csv label file follow the next structure:
 
 image_path(str)&nbsp;&nbsp;  x_1(int)&nbsp;&nbsp;  y_1(int) &nbsp;&nbsp;  x_2(int) &nbsp;&nbsp; y_2(int)&nbsp;&nbsp;   class(string) <br><br>
 
-where:<br>
+where:<br><br>
 image_path: is the path to the images corresponding to the annotation.<br>
 x_1: is the x coordinate of the upper left corner of the bounding box<br>
 y_2: is the y coordinate of the upper left corner of the bounding box<br>
 x_2: is the x coordinate of the lower right corner of the bounding box<br>
-y_2: is the y coordinate of the lower right corner of the bounding box<br>
+y_2: is the y coordinate of the lower right corner of the bounding box<br><br>
 
 Note that the <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones</a> files contain annotatin based in a image size of 640 x 640.
 
