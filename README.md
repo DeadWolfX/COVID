@@ -6,11 +6,11 @@
     <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Datos">Datos 📂 :</a></b></li> Contains text files for each dataset used, summarizing relevant information about each dataset in a structured manner.
     <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Exploratorios">Exploratorios 📂 :</a></b></li> Contains three Jupyter Lab notebooks, one for each dataset used. These notebooks contain the codes and functions used to perform the reported exploratory analyses.
     <li><b><a href="https://github.com/JairMathAI/COVID/blob/main/env.yml">env.yml 📄 :</a></b></li> Anaconda virtual environment configuration containing all the necessary libraries for exploratory analysis, visualization, data preprocessing, and label manipulation.
-    <li><b><a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Trainings:</a></b></li> The weights of the trained models described in the thesis, as well as the complete training information and graphics, are available in the following <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder</a>
+    <li><b><a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Trainings:</a></b></li> The weights of the trained models described in the thesis, as well as the complete training information and graphics, are available in the following <a href="https://drive.google.com/drive/folders/1JVR-FKDxJcaKLuTDaTM2A9S_6f6m2J4A?usp=drive_link">Google Drive folder 📂 </a>
     <li><b><a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Modificados">Codigos_Modificados 📂 :</a></b></li>Contains two folders, one for each model:
     <ul>
-        <li><b>For <a href="https://github.com/ultralytics/ultralytics">Y.O.L.O</a> </b></li> the code with modifications in the attention module is included, as well as the Jupyter Lab notebook used in the training, which includes modifications for generating confusion matrices.
-        <li><b>For <a href="https://github.com/yhenon/pytorch-retinanet">RetinaNet</a></b></li> the following codes are included:
+        <li><b>For <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Modificados/YOLO">Y.O.L.O 📂 </a> </b></li> the code with modifications in the attention module is included, as well as the Jupyter Lab notebook used in the training, which includes modifications for generating confusion matrices.
+        <li><b>For <a href="https://github.com/JairMathAI/COVID/tree/main/Codigos_Modificados/RetinaNet">RetinaNet 📂 </a></b></li> the following codes are included:
         <ul>
             <li><b>AumentoSIIM.ipynb 📄 :</b></li> Code to realize data augmentation for RetinaNet.
             <li><b>ConfuseMatrix.py 📄 :</b></li> Code developed for generating confusion matrices for RetinaNet.
