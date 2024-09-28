@@ -131,7 +131,7 @@ In the other hand the structure that the dataset need to have and that we need t
 
 Each row (one per boundingbox) in the .txt label file need to follow the next structure:<br>
 
-class(int)  x_c(float)  y_c(float)   w_n(float)  h_n(float)<br><br>
+class(int)&nbsp;&nbsp;  x_c(float)&nbsp;&nbsp;  y_c(float)&nbsp;&nbsp;   w_n(float) &nbsp;&nbsp; h_n(float)<br><br>
 
 where:<br>
 x_c: is the x coordinate of the center of the bounding box and it's normalized with respect to the the image<br>
@@ -143,7 +143,7 @@ to obtain this format is important recall that the  <a href="https://github.com/
 
 Each row (one per boundingbox) in the .csv label file follow the next structure:<br>
 
-image_path(str)  x_1(int)  y_1(int)   x_2(int)  y_2(int)   class(string) <br><br>
+image_path(str)&nbsp;&nbsp;  x_1(int)&nbsp;&nbsp;  y_1(int) &nbsp;&nbsp;  x_2(int) &nbsp;&nbsp; y_2(int)&nbsp;&nbsp;   class(string) <br><br>
 
 where:<br>
 image_path: is the path to the images corresponding to the annotation.<br>
@@ -152,6 +152,7 @@ y_2: is the y coordinate of the upper left corner of the bounding box<br>
 x_2: is the x coordinate of the lower right corner of the bounding box<br>
 y_2: is the y coordinate of the lower right corner of the bounding box<br>
 
+Note that the <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones</a> files contain annotatin based in a image size of 640 x 640.
 
 <h3>Training Models</h3>
 
