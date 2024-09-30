@@ -99,7 +99,7 @@ names:<br>
   2: Indeterminate Appearance<br>
   3: Atypical Appearance<br><br>
 
-In the other hand the structure that the dataset need to have and that we need to construct udsing the respective <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones</a> files is:
+In the other hand the structure that the dataset need to have and that we need to construct using the respective <a href="https://github.com/JairMathAI/COVID/tree/main/Anotaciones">Anotaciones</a> files is:
 
 📂 Dataset  
 ├── 📂 images  
